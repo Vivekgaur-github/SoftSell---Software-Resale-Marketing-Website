@@ -2,7 +2,7 @@
 
 A modern, responsive single-page marketing website for SoftSell, a software license resale platform. Built with React, Vite, and Tailwind CSS.
 
-![SoftSell Screenshot](https://images.pexels.com/photos/7688336/pexels-photo-7688336.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
 
 ## Features
 
@@ -76,11 +76,8 @@ src/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/softsell](https://github.com/yourusername/softsell)
+email - itsmevivek254@gmail.com
+Project Link: https://soft-sell-software-resale-marketing-website.vercel.app/
